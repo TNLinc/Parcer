@@ -1,0 +1,34 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TNLinc/Parcer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TNLinc/Parcer/issues"
+  },
+  "homepage": "https://github.com/TNLinc/Parcer#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "hex-rgb": "^5.0.0",
+    "hex-to-rgba": "^2.0.1",
+    "jimp": "^0.16.1",
+    "jpeg-js": "^0.4.3",
+    "pg": "^8.7.1",
+    "pg-format": "^1.0.4",
+    "rgb-hex": "^4.0.0",
+    "rgb2hex": "^0.2.5",
+    "url-join": "^4.0.1"
+  }
+}
